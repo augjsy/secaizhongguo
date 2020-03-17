@@ -1,6 +1,6 @@
 {
   "name": "nippon-colors-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nippon colors generator",
   "main": "./colors.json",
   "scripts": {
