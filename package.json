@@ -1,0 +1,26 @@
+{
+  "name": "nippon-colors-gen",
+  "version": "1.0.0",
+  "description": "nippon colors generator",
+  "main": "./colors.json",
+  "scripts": {
+    "visualize": "node color.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecodeit/nippon-colors-gen.git"
+  },
+  "keywords": [
+    "nippon",
+    "color",
+    "npm",
+    "node"
+  ],
+  "author": "hecodeit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hecodeit/nippon-colors-gen/issues"
+  },
+  "homepage": "https://github.com/hecodeit/nippon-colors-gen#readme",
+  "dependencies": {}
+}
