@@ -1,6 +1,6 @@
 {
   "name": "nippon-colors-gen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nippon colors generator",
   "main": "./colors.json",
   "scripts": {
@@ -21,6 +21,5 @@
   "bugs": {
     "url": "https://github.com/hecodeit/nippon-colors-gen/issues"
   },
-  "homepage": "https://github.com/hecodeit/nippon-colors-gen#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/hecodeit/nippon-colors-gen#readme"
 }
