@@ -6,7 +6,7 @@ https://nipponcolors.com/
 
 ## install
 ```
-npm install nippon-colors-gen
+npm install secaizhongguo
 ```
 
 ## use
