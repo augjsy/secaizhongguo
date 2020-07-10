@@ -1,5 +1,5 @@
 {
-  "name": "nippon-colors-gen",
+  "name": "secaizhongguo",
   "version": "1.0.2",
   "description": "nippon colors generator",
   "main": "./colors.json",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hecodeit/nippon-colors-gen.git"
+    "url": "git+https://github.com/augjsy/secaizhongguo.git"
   },
   "keywords": [
     "nippon",
@@ -19,7 +19,7 @@
   "author": "hecodeit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hecodeit/nippon-colors-gen/issues"
+    "url": "https://github.com/augjsy/secaizhongguo/issues"
   },
-  "homepage": "https://github.com/hecodeit/nippon-colors-gen#readme"
+  "homepage": "https://github.com/augjsy/secaizhongguo#readme"
 }
